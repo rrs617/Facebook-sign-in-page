@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+*{
+    margin: 0;
+    outline:none;
+}
+
+.Total {
+
+}
+
+.containerA {
+    outline: none;
+}
+
+.containerB {
+    padding-bottom: 112px;
+    padding-top: 72px;
+    background: #f0f2f5;
+}
+
+
+
+.containerC {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 496px;
+    /* margin: 0 40px; */
+}
+
+.FBLOGO {
+    padding-bottom: 120px;
+    padding-left: 115px;
+
+}
+
+.logo-section {
+    }
+
+.facebookword {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    line-height: 30px;
+    font-weight: normal;
+    display: inline-block;
+    width: 80%;
+    padding-left: 30px;
+}
+
+.login {
+    height: 456px;
+    width: 396px;
+    padding-top: 80px;
+    padding-right: 150px;
+}
+
+.J1 {
+    text-align: center;
+    align-items: center;
+    border-radius: 8px;
+    border: none;
+    background-color: white;
+    box-shadow: 5px 5px 20px rgba(0,0,0,0.15);
+    box-sizing: border-box;
+    width: 396px;
+    padding: 15px;
+    padding-bottom: 25px;
+}
+
+.A {
+   text-align: center;
+}
+
+.a1 {
+    font-size: 17px;
+}
+
+label:nth-child(1){
+
+}
+
+
+.a2 {
+    font-size: 17px;
+}
+
+label:nth-child(2){
+
+}
+
+
+.B {
+    cursor: pointer;
+    background-color: #1877f2;
+    color: aliceblue;
+    border-radius: 6px;
+    border: none;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 48px;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.C {
+text-align: center;
+}
+
+.C a {
+    color: #1877f2;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+.D {
+    text-align: center;
+    justify-content: center;
+    cursor: pointer;
+    background-color:#42b72a;
+    color: aliceblue;
+    border-radius: 6px;
+    border: none;
+    font-size: 17px;
+    font-weight: bold;
+    line-height: 48px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 55%; 
+    display:inline-block;
+}
+
+
+.J2 {
+    font-family: Arial, Helvetica, sans-serif;
+    border-top: none;
+    font-size: 14px;
+    font-weight: normal;
+    text-align: center;
+}
+
+.J2 a {
+font-weight: 600;
+color: black;
+padding-top: 0;
+font-size: 14px;
+text-decoration: none;
+}
+
+input {
+    width: 100%;
+    height: 20px;
+    font-size: 17px;
+    width: 330px;
+    padding: 14px 16px;
+    border-radius: 6px;
+    border: 1px solid #dddfe2;
+}
